@@ -1,194 +1,266 @@
 [
   {
     "automation_id": "commercial-legal-check",
-    "display_name": "商務法務スペシャリスト",
-    "seed_name": "Ethan Cole",
-    "background": "ffe1e8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ethan+Cole&backgroundColor=ffe1e8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/commercial-legal-check.png"
+    "seed_name": "Haruka Sato",
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "young",
+    "background": "fde2e4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haruka+Sato&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fde2e4&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/commercial-legal-check.png",
+    "display_name": "商務法務スペシャリスト"
   },
   {
     "automation_id": "corporate-legal-check",
-    "display_name": "コーポレートカウンセル",
     "seed_name": "Yui Sakamoto",
-    "background": "fff0c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yui+Sakamoto&backgroundColor=fff0c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/corporate-legal-check.png"
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "young",
+    "background": "fff1c7",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yui+Sakamoto&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fff1c7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/corporate-legal-check.png",
+    "display_name": "コーポレートカウンセル"
   },
   {
     "automation_id": "employment-legal-check",
-    "display_name": "労務コンプライアンス担当",
     "seed_name": "Mina Kato",
-    "background": "dff4c8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mina+Kato&backgroundColor=dff4c8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/employment-legal-check.png"
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "young",
+    "background": "def7e5",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mina+Kato&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=def7e5&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/employment-legal-check.png",
+    "display_name": "労務コンプライアンス担当"
   },
   {
     "automation_id": "privacy-legal-check",
-    "display_name": "プライバシーカウンセル",
     "seed_name": "Noah Bennett",
-    "background": "ffd7c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Noah+Bennett&backgroundColor=ffd7c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/privacy-legal-check.png"
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "young",
+    "background": "dcecff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Noah+Bennett&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=dcecff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=eeb4a4&hairColor=6e4634&hair=fade%2CcurlyHighTop%2Cbuzzcut%2CshortCombover%2Cmohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/privacy-legal-check.png",
+    "display_name": "プライバシーカウンセル"
   },
   {
     "automation_id": "product-counsel-check",
-    "display_name": "プロダクトカウンセル",
     "seed_name": "Aoi Nakamura",
-    "background": "d9ecff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Aoi+Nakamura&backgroundColor=d9ecff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/product-counsel-check.png"
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "young",
+    "background": "ffe8dc",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Aoi+Nakamura&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe8dc&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/product-counsel-check.png",
+    "display_name": "プロダクトカウンセル"
   },
   {
     "automation_id": "regulatory-legal-check",
-    "display_name": "規制対応スペシャリスト",
     "seed_name": "Lucas Martin",
-    "background": "ffe8b6",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Lucas+Martin&backgroundColor=ffe8b6&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/regulatory-legal-check.png"
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "established",
+    "background": "e3dcff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Lucas+Martin&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=e3dcff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=eeb4a4&hairColor=6e4634&hair=shortCombover%2Cfade%2Cbuzzcut%2Cbalding%2Ccurly&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/regulatory-legal-check.png",
+    "display_name": "規制対応スペシャリスト"
   },
   {
     "automation_id": "ai-governance-check",
-    "display_name": "AIガバナンス責任者",
-    "seed_name": "Sora Kimura",
-    "background": "e3dbff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sora+Kimura&backgroundColor=e3dbff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ai-governance-check.png"
+    "seed_name": "Mei Takahashi",
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "established",
+    "background": "fce6f2",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mei+Takahashi&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fce6f2&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=d78774&hairColor=1f1a38&hair=bobBangs%2CbobCut%2Clong%2CstraightBun%2CcurlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ai-governance-check.png",
+    "display_name": "AIガバナンス責任者"
   },
   {
     "automation_id": "ip-legal-check",
-    "display_name": "知的財産スペシャリスト",
     "seed_name": "Oliver Reid",
-    "background": "fff0c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Oliver+Reid&backgroundColor=fff0c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ip-legal-check.png"
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "established",
+    "background": "fff0c9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Oliver+Reid&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fff0c9&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=eeb4a4&hairColor=6e4634&hair=shortCombover%2Cfade%2Cbuzzcut%2Cbalding%2Ccurly&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ip-legal-check.png",
+    "display_name": "知的財産スペシャリスト"
   },
   {
     "automation_id": "litigation-risk-check",
-    "display_name": "紛争リスクアドバイザー",
     "seed_name": "Rin Fujita",
-    "background": "ffd9e2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Rin+Fujita&backgroundColor=ffd9e2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/litigation-risk-check.png"
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "established",
+    "background": "ffdce7",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Rin+Fujita&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffdce7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=d78774&hairColor=1f1a38&hair=bobBangs%2CbobCut%2Clong%2CstraightBun%2CcurlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/litigation-risk-check.png",
+    "display_name": "紛争リスクアドバイザー"
   },
   {
     "automation_id": "legal-clinic-triage",
-    "display_name": "法務相談トリアージ担当",
     "seed_name": "Hana Park",
-    "background": "dff4c8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Hana+Park&backgroundColor=dff4c8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-clinic-triage.png"
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "young",
+    "background": "e4f6d4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Hana+Park&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=e4f6d4&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-clinic-triage.png",
+    "display_name": "法務相談トリアージ担当"
   },
   {
     "automation_id": "legal-research-assistant-check",
-    "display_name": "法務リサーチアソシエイト",
     "seed_name": "Emma Scott",
-    "background": "d9ecff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Emma+Scott&backgroundColor=d9ecff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-research-assistant-check.png"
+    "ethnicity_group": "white",
+    "gender": "female",
+    "age_group": "established",
+    "background": "dbeeff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Emma+Scott&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=dbeeff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=eeb4a4&hairColor=6e4634&hair=bobBangs%2CbobCut%2Clong%2CstraightBun%2CcurlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-research-assistant-check.png",
+    "display_name": "法務リサーチアソシエイト"
   },
   {
     "automation_id": "legal-builder-hub-ops-check",
-    "display_name": "法務オペレーション責任者",
-    "seed_name": "Kai Watanabe",
-    "background": "ffe1e8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Kai+Watanabe&backgroundColor=ffe1e8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-builder-hub-ops-check.png"
+    "seed_name": "Ethan Cole",
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "established",
+    "background": "ffe6d6",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ethan+Cole&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe6d6&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=eeb4a4&hairColor=6e4634&hair=shortCombover%2Cfade%2Cbuzzcut%2Cbalding%2Ccurly&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-builder-hub-ops-check.png",
+    "display_name": "法務オペレーション責任者"
   },
   {
     "automation_id": "small-business-growth-promotion-check",
-    "display_name": "グロースマーケティング責任者",
     "seed_name": "Chloe Davis",
-    "background": "ffd7c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Chloe+Davis&backgroundColor=ffd7c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-growth-promotion-check.png"
+    "ethnicity_group": "white",
+    "gender": "female",
+    "age_group": "young",
+    "background": "ffe0eb",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Chloe+Davis&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe0eb&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=eeb4a4&hairColor=6e4634&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-growth-promotion-check.png",
+    "display_name": "グロースマーケティング責任者"
   },
   {
     "automation_id": "small-business-demand-pipeline-check",
-    "display_name": "需要創出マネージャー",
     "seed_name": "Haru Ishida",
-    "background": "fff0c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haru+Ishida&backgroundColor=fff0c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-demand-pipeline-check.png"
+    "ethnicity_group": "asia",
+    "gender": "male",
+    "age_group": "young",
+    "background": "fff1cf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haru+Ishida&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fff1cf&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=d78774&hairColor=1f1a38&hair=fade%2CcurlyHighTop%2Cbuzzcut%2CshortCombover%2Cmohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-demand-pipeline-check.png",
+    "display_name": "需要創出マネージャー"
   },
   {
     "automation_id": "small-business-sales-enablement-operations-check",
-    "display_name": "営業実行支援責任者",
-    "seed_name": "Ava Lin",
-    "background": "d9ecff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ava+Lin&backgroundColor=d9ecff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-sales-enablement-operations-check.png"
+    "seed_name": "Amara Okafor",
+    "ethnicity_group": "black_other",
+    "gender": "female",
+    "age_group": "young",
+    "background": "dceeff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Amara+Okafor&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=dceeff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=92594b&hairColor=2b1b17&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-sales-enablement-operations-check.png",
+    "display_name": "営業実行支援責任者"
   },
   {
     "automation_id": "small-business-customer-expansion-and-retention-check",
-    "display_name": "顧客成長責任者",
     "seed_name": "Liam Parker",
-    "background": "dff4c8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Liam+Parker&backgroundColor=dff4c8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-customer-expansion-and-retention-check.png"
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "young",
+    "background": "e3f5df",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Liam+Parker&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=e3f5df&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=eeb4a4&hairColor=6e4634&hair=fade%2CcurlyHighTop%2Cbuzzcut%2CshortCombover%2Cmohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-customer-expansion-and-retention-check.png",
+    "display_name": "顧客成長責任者"
   },
   {
     "automation_id": "small-business-revenue-intelligence-and-strategy-check",
-    "display_name": "収益戦略責任者",
-    "seed_name": "Mei Takahashi",
-    "background": "ffe8b6",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mei+Takahashi&backgroundColor=ffe8b6&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-revenue-intelligence-and-strategy-check.png"
+    "seed_name": "Eri Matsuda",
+    "ethnicity_group": "asia",
+    "gender": "female",
+    "age_group": "established",
+    "background": "ffe7c7",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Eri+Matsuda&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe7c7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=d78774&hairColor=1f1a38&hair=bobBangs%2CbobCut%2Clong%2CstraightBun%2CcurlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-revenue-intelligence-and-strategy-check.png",
+    "display_name": "収益戦略責任者"
   },
   {
     "automation_id": "small-business-finance-operations-check",
-    "display_name": "財務運用マネージャー",
-    "seed_name": "Eri Matsuda",
-    "background": "ffd9e2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Eri+Matsuda&backgroundColor=ffd9e2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-finance-operations-check.png"
+    "seed_name": "Sophie Walker",
+    "ethnicity_group": "white",
+    "gender": "female",
+    "age_group": "established",
+    "background": "f7deea",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sophie+Walker&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=f7deea&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=eeb4a4&hairColor=6e4634&hair=bobBangs%2CbobCut%2Clong%2CstraightBun%2CcurlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-finance-operations-check.png",
+    "display_name": "財務運用マネージャー"
   },
   {
     "automation_id": "small-business-support-operations-check",
-    "display_name": "サポート運用責任者",
     "seed_name": "Owen Carter",
-    "background": "dff4c8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Owen+Carter&backgroundColor=dff4c8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-support-operations-check.png"
+    "ethnicity_group": "white",
+    "gender": "male",
+    "age_group": "young",
+    "background": "e4f5d9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Owen+Carter&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=e4f5d9&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=eeb4a4&hairColor=6e4634&hair=fade%2CcurlyHighTop%2Cbuzzcut%2CshortCombover%2Cmohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-support-operations-check.png",
+    "display_name": "サポート運用責任者"
   },
   {
     "automation_id": "small-business-knowledge-management-check",
-    "display_name": "ナレッジ管理責任者",
-    "seed_name": "Ayaka Mori",
-    "background": "e3dbff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ayaka+Mori&backgroundColor=e3dbff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-knowledge-management-check.png"
+    "seed_name": "Nia Brooks",
+    "ethnicity_group": "black_other",
+    "gender": "female",
+    "age_group": "young",
+    "background": "dfecff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Nia+Brooks&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=dfecff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=92594b&hairColor=2b1b17&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-knowledge-management-check.png",
+    "display_name": "ナレッジ管理責任者"
   },
   {
     "automation_id": "small-business-automation-orchestrator-check",
-    "display_name": "自動化統括責任者",
     "seed_name": "Megan Ross",
-    "background": "d9ecff",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Megan+Ross&backgroundColor=d9ecff&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-automation-orchestrator-check.png"
+    "ethnicity_group": "white",
+    "gender": "female",
+    "age_group": "young",
+    "background": "ffe6d7",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Megan+Ross&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe6d7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=eeb4a4&hairColor=6e4634&hair=bobCut%2Clong%2CcurlyBun%2Cpigtails%2CstraightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-automation-orchestrator-check.png",
+    "display_name": "自動化統括責任者"
   },
   {
     "automation_id": "small-business-ai-workflow-check",
-    "display_name": "AIワークフロー設計責任者",
-    "seed_name": "Yuna Shimizu",
-    "background": "ffe1e8",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yuna+Shimizu&backgroundColor=ffe1e8&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-ai-workflow-check.png"
+    "seed_name": "Sora Kimura",
+    "ethnicity_group": "asia",
+    "gender": "male",
+    "age_group": "established",
+    "background": "e8dfff",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sora+Kimura&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=e8dfff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=d78774&hairColor=1f1a38&hair=shortCombover%2Cfade%2Cbuzzcut%2Cbalding%2Ccurly&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-ai-workflow-check.png",
+    "display_name": "AIワークフロー設計責任者"
   },
   {
     "automation_id": "small-business-connector-governance-check",
-    "display_name": "権限統制責任者",
-    "seed_name": "Leo Harrison",
-    "background": "fff0c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Leo+Harrison&backgroundColor=fff0c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-connector-governance-check.png"
+    "seed_name": "Jordan Adeyemi",
+    "ethnicity_group": "black_other",
+    "gender": "male",
+    "age_group": "established",
+    "background": "fff2d3",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Jordan+Adeyemi&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fff2d3&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=open%2Chappy%2Cglasses&mouth=smile%2Clips%2Csmirk&skinColor=92594b&hairColor=2b1b17&hair=shortCombover%2Cfade%2Cbuzzcut%2Cbalding%2Ccurly&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-connector-governance-check.png",
+    "display_name": "権限統制責任者"
   },
   {
     "automation_id": "small-business-builder-hub-check",
-    "display_name": "事業統括責任者",
-    "seed_name": "Sophie Walker",
-    "background": "ffd7c2",
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sophie+Walker&backgroundColor=ffd7c2&size=512&mouth=smile",
-    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-builder-hub-check.png"
+    "seed_name": "Diego Alvarez",
+    "ethnicity_group": "black_other",
+    "gender": "male",
+    "age_group": "young",
+    "background": "ffe3de",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Diego+Alvarez&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=ffe3de&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff%2C7555ca%2C6dbb58%2Ce24553%2Cf3b63a&eyes=happy%2Copen%2Cwink&mouth=bigSmile%2Csmile&skinColor=92594b&hairColor=2b1b17&hair=fade%2CcurlyHighTop%2Cbuzzcut%2CshortCombover%2Cmohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-builder-hub-check.png",
+    "display_name": "事業統括責任者"
   }
 ]

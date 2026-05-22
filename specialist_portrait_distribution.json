@@ -1,0 +1,15 @@
+{
+  "ethnicity_group": {
+    "asia": 10,
+    "white": 10,
+    "black_other": 4
+  },
+  "gender": {
+    "female": 14,
+    "male": 10
+  },
+  "age_group": {
+    "young": 14,
+    "established": 10
+  }
+}
