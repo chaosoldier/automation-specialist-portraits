@@ -1,0 +1,194 @@
+[
+  {
+    "automation_id": "commercial-legal-check",
+    "display_name": "🤝 商務法務ボット",
+    "seed_name": "Adrian Stone",
+    "background": "b6e3f4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Adrian+Stone&backgroundColor=b6e3f4&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/commercial-legal-check.png"
+  },
+  {
+    "automation_id": "corporate-legal-check",
+    "display_name": "🏛️ コーポレート法務ボット",
+    "seed_name": "Victoria Ashford",
+    "background": "c0aede",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Victoria+Ashford&backgroundColor=c0aede&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/corporate-legal-check.png"
+  },
+  {
+    "automation_id": "employment-legal-check",
+    "display_name": "👥 労務法務ボット",
+    "seed_name": "Ethan Brooks",
+    "background": "d1d4f9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ethan+Brooks&backgroundColor=d1d4f9&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/employment-legal-check.png"
+  },
+  {
+    "automation_id": "privacy-legal-check",
+    "display_name": "🔐 プライバシー法務ボット",
+    "seed_name": "Nora Sinclair",
+    "background": "ffd5dc",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Nora+Sinclair&backgroundColor=ffd5dc&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/privacy-legal-check.png"
+  },
+  {
+    "automation_id": "product-counsel-check",
+    "display_name": "🧩 プロダクト法務ボット",
+    "seed_name": "Lucas Mercer",
+    "background": "ffdfbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Lucas+Mercer&backgroundColor=ffdfbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/product-counsel-check.png"
+  },
+  {
+    "automation_id": "regulatory-legal-check",
+    "display_name": "📜 規制対応ボット",
+    "seed_name": "Helena Ward",
+    "background": "c9ffbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Helena+Ward&backgroundColor=c9ffbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/regulatory-legal-check.png"
+  },
+  {
+    "automation_id": "ai-governance-check",
+    "display_name": "🤖 AIガバナンスボット",
+    "seed_name": "Milo Sterling",
+    "background": "c0aede",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Milo+Sterling&backgroundColor=c0aede&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ai-governance-check.png"
+  },
+  {
+    "automation_id": "ip-legal-check",
+    "display_name": "💡 知財法務ボット",
+    "seed_name": "Clara Whitmore",
+    "background": "ffdfbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Clara+Whitmore&backgroundColor=ffdfbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ip-legal-check.png"
+  },
+  {
+    "automation_id": "litigation-risk-check",
+    "display_name": "⚖️ 紛争リスクボット",
+    "seed_name": "Sebastian Cole",
+    "background": "d1d4f9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sebastian+Cole&backgroundColor=d1d4f9&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/litigation-risk-check.png"
+  },
+  {
+    "automation_id": "legal-clinic-triage",
+    "display_name": "🩺 リーガル相談仕分けボット",
+    "seed_name": "Amelia Hart",
+    "background": "b6e3f4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Amelia+Hart&backgroundColor=b6e3f4&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-clinic-triage.png"
+  },
+  {
+    "automation_id": "legal-research-assistant-check",
+    "display_name": "📚 法務リサーチ補助ボット",
+    "seed_name": "Oliver Bennett",
+    "background": "c9ffbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Oliver+Bennett&backgroundColor=c9ffbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-research-assistant-check.png"
+  },
+  {
+    "automation_id": "legal-builder-hub-ops-check",
+    "display_name": "🛠️ 法務運用ハブボット",
+    "seed_name": "Julian Foster",
+    "background": "ffd5dc",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Julian+Foster&backgroundColor=ffd5dc&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-builder-hub-ops-check.png"
+  },
+  {
+    "automation_id": "small-business-growth-promotion-check",
+    "display_name": "📣 成長促進ボット",
+    "seed_name": "Scarlett Hayes",
+    "background": "ffdfbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Scarlett+Hayes&backgroundColor=ffdfbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-growth-promotion-check.png"
+  },
+  {
+    "automation_id": "small-business-demand-pipeline-check",
+    "display_name": "🎯 需要パイプラインボット",
+    "seed_name": "Nathan Reed",
+    "background": "b6e3f4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Nathan+Reed&backgroundColor=b6e3f4&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-demand-pipeline-check.png"
+  },
+  {
+    "automation_id": "small-business-sales-enablement-operations-check",
+    "display_name": "🧭 営業実行支援ボット",
+    "seed_name": "Grace Sullivan",
+    "background": "c0aede",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Grace+Sullivan&backgroundColor=c0aede&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-sales-enablement-operations-check.png"
+  },
+  {
+    "automation_id": "small-business-customer-expansion-and-retention-check",
+    "display_name": "🌱 継続成長ボット",
+    "seed_name": "Elena Bishop",
+    "background": "c9ffbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Elena+Bishop&backgroundColor=c9ffbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-customer-expansion-and-retention-check.png"
+  },
+  {
+    "automation_id": "small-business-revenue-intelligence-and-strategy-check",
+    "display_name": "📈 収益戦略ボット",
+    "seed_name": "Marcus Ellington",
+    "background": "d1d4f9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Marcus+Ellington&backgroundColor=d1d4f9&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-revenue-intelligence-and-strategy-check.png"
+  },
+  {
+    "automation_id": "small-business-finance-operations-check",
+    "display_name": "💴 財務運用ボット",
+    "seed_name": "Sophia Grant",
+    "background": "ffd5dc",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sophia+Grant&backgroundColor=ffd5dc&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-finance-operations-check.png"
+  },
+  {
+    "automation_id": "small-business-support-operations-check",
+    "display_name": "🛟 サポート運用ボット",
+    "seed_name": "Daniel Cooper",
+    "background": "b6e3f4",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Daniel+Cooper&backgroundColor=b6e3f4&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-support-operations-check.png"
+  },
+  {
+    "automation_id": "small-business-knowledge-management-check",
+    "display_name": "🧠 ナレッジ管理ボット",
+    "seed_name": "Isla Montgomery",
+    "background": "ffdfbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Isla+Montgomery&backgroundColor=ffdfbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-knowledge-management-check.png"
+  },
+  {
+    "automation_id": "small-business-automation-orchestrator-check",
+    "display_name": "⚙️ 自動化統括ボット",
+    "seed_name": "Felix Turner",
+    "background": "c0aede",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Felix+Turner&backgroundColor=c0aede&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-automation-orchestrator-check.png"
+  },
+  {
+    "automation_id": "small-business-ai-workflow-check",
+    "display_name": "🪄 AIワークフローボット",
+    "seed_name": "Chloe Parker",
+    "background": "d1d4f9",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Chloe+Parker&backgroundColor=d1d4f9&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-ai-workflow-check.png"
+  },
+  {
+    "automation_id": "small-business-connector-governance-check",
+    "display_name": "🔌 権限統制ボット",
+    "seed_name": "Leo Harrison",
+    "background": "c9ffbf",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Leo+Harrison&backgroundColor=c9ffbf&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-connector-governance-check.png"
+  },
+  {
+    "automation_id": "small-business-builder-hub-check",
+    "display_name": "🧱 事業統括ボット",
+    "seed_name": "Audrey Lawson",
+    "background": "ffd5dc",
+    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Audrey+Lawson&backgroundColor=ffd5dc&size=512",
+    "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-builder-hub-check.png"
+  }
+]
