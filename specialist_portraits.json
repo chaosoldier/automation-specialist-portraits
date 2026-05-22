@@ -1,7 +1,7 @@
 [
   {
     "automation_id": "commercial-legal-check",
-    "display_name": "🤝 商務法務ボット",
+    "display_name": "商務法務スペシャリスト",
     "seed_name": "Ethan Cole",
     "background": "ffe1e8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ethan+Cole&backgroundColor=ffe1e8&size=512&mouth=smile",
@@ -9,7 +9,7 @@
   },
   {
     "automation_id": "corporate-legal-check",
-    "display_name": "🏛️ コーポレート法務ボット",
+    "display_name": "コーポレートカウンセル",
     "seed_name": "Yui Sakamoto",
     "background": "fff0c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yui+Sakamoto&backgroundColor=fff0c2&size=512&mouth=smile",
@@ -17,7 +17,7 @@
   },
   {
     "automation_id": "employment-legal-check",
-    "display_name": "👥 労務法務ボット",
+    "display_name": "労務コンプライアンス担当",
     "seed_name": "Mina Kato",
     "background": "dff4c8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mina+Kato&backgroundColor=dff4c8&size=512&mouth=smile",
@@ -25,7 +25,7 @@
   },
   {
     "automation_id": "privacy-legal-check",
-    "display_name": "🔐 プライバシー法務ボット",
+    "display_name": "プライバシーカウンセル",
     "seed_name": "Noah Bennett",
     "background": "ffd7c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Noah+Bennett&backgroundColor=ffd7c2&size=512&mouth=smile",
@@ -33,7 +33,7 @@
   },
   {
     "automation_id": "product-counsel-check",
-    "display_name": "🧩 プロダクト法務ボット",
+    "display_name": "プロダクトカウンセル",
     "seed_name": "Aoi Nakamura",
     "background": "d9ecff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Aoi+Nakamura&backgroundColor=d9ecff&size=512&mouth=smile",
@@ -41,7 +41,7 @@
   },
   {
     "automation_id": "regulatory-legal-check",
-    "display_name": "📜 規制対応ボット",
+    "display_name": "規制対応スペシャリスト",
     "seed_name": "Lucas Martin",
     "background": "ffe8b6",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Lucas+Martin&backgroundColor=ffe8b6&size=512&mouth=smile",
@@ -49,7 +49,7 @@
   },
   {
     "automation_id": "ai-governance-check",
-    "display_name": "🤖 AIガバナンスボット",
+    "display_name": "AIガバナンス責任者",
     "seed_name": "Sora Kimura",
     "background": "e3dbff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sora+Kimura&backgroundColor=e3dbff&size=512&mouth=smile",
@@ -57,7 +57,7 @@
   },
   {
     "automation_id": "ip-legal-check",
-    "display_name": "💡 知財法務ボット",
+    "display_name": "知的財産スペシャリスト",
     "seed_name": "Oliver Reid",
     "background": "fff0c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Oliver+Reid&backgroundColor=fff0c2&size=512&mouth=smile",
@@ -65,7 +65,7 @@
   },
   {
     "automation_id": "litigation-risk-check",
-    "display_name": "⚖️ 紛争リスクボット",
+    "display_name": "紛争リスクアドバイザー",
     "seed_name": "Rin Fujita",
     "background": "ffd9e2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Rin+Fujita&backgroundColor=ffd9e2&size=512&mouth=smile",
@@ -73,7 +73,7 @@
   },
   {
     "automation_id": "legal-clinic-triage",
-    "display_name": "🩺 リーガル相談仕分けボット",
+    "display_name": "法務相談トリアージ担当",
     "seed_name": "Hana Park",
     "background": "dff4c8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Hana+Park&backgroundColor=dff4c8&size=512&mouth=smile",
@@ -81,7 +81,7 @@
   },
   {
     "automation_id": "legal-research-assistant-check",
-    "display_name": "📚 法務リサーチ補助ボット",
+    "display_name": "法務リサーチアソシエイト",
     "seed_name": "Emma Scott",
     "background": "d9ecff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Emma+Scott&backgroundColor=d9ecff&size=512&mouth=smile",
@@ -89,7 +89,7 @@
   },
   {
     "automation_id": "legal-builder-hub-ops-check",
-    "display_name": "🛠️ 法務運用ハブボット",
+    "display_name": "法務オペレーション責任者",
     "seed_name": "Kai Watanabe",
     "background": "ffe1e8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Kai+Watanabe&backgroundColor=ffe1e8&size=512&mouth=smile",
@@ -97,7 +97,7 @@
   },
   {
     "automation_id": "small-business-growth-promotion-check",
-    "display_name": "📣 成長促進ボット",
+    "display_name": "グロースマーケティング責任者",
     "seed_name": "Chloe Davis",
     "background": "ffd7c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Chloe+Davis&backgroundColor=ffd7c2&size=512&mouth=smile",
@@ -105,7 +105,7 @@
   },
   {
     "automation_id": "small-business-demand-pipeline-check",
-    "display_name": "🎯 需要パイプラインボット",
+    "display_name": "需要創出マネージャー",
     "seed_name": "Haru Ishida",
     "background": "fff0c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haru+Ishida&backgroundColor=fff0c2&size=512&mouth=smile",
@@ -113,7 +113,7 @@
   },
   {
     "automation_id": "small-business-sales-enablement-operations-check",
-    "display_name": "🧭 営業実行支援ボット",
+    "display_name": "営業実行支援責任者",
     "seed_name": "Ava Lin",
     "background": "d9ecff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ava+Lin&backgroundColor=d9ecff&size=512&mouth=smile",
@@ -121,7 +121,7 @@
   },
   {
     "automation_id": "small-business-customer-expansion-and-retention-check",
-    "display_name": "🌱 継続成長ボット",
+    "display_name": "顧客成長責任者",
     "seed_name": "Liam Parker",
     "background": "dff4c8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Liam+Parker&backgroundColor=dff4c8&size=512&mouth=smile",
@@ -129,7 +129,7 @@
   },
   {
     "automation_id": "small-business-revenue-intelligence-and-strategy-check",
-    "display_name": "📈 収益戦略ボット",
+    "display_name": "収益戦略責任者",
     "seed_name": "Mei Takahashi",
     "background": "ffe8b6",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mei+Takahashi&backgroundColor=ffe8b6&size=512&mouth=smile",
@@ -137,7 +137,7 @@
   },
   {
     "automation_id": "small-business-finance-operations-check",
-    "display_name": "💴 財務運用ボット",
+    "display_name": "財務運用マネージャー",
     "seed_name": "Eri Matsuda",
     "background": "ffd9e2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Eri+Matsuda&backgroundColor=ffd9e2&size=512&mouth=smile",
@@ -145,7 +145,7 @@
   },
   {
     "automation_id": "small-business-support-operations-check",
-    "display_name": "🛟 サポート運用ボット",
+    "display_name": "サポート運用責任者",
     "seed_name": "Owen Carter",
     "background": "dff4c8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Owen+Carter&backgroundColor=dff4c8&size=512&mouth=smile",
@@ -153,7 +153,7 @@
   },
   {
     "automation_id": "small-business-knowledge-management-check",
-    "display_name": "🧠 ナレッジ管理ボット",
+    "display_name": "ナレッジ管理責任者",
     "seed_name": "Ayaka Mori",
     "background": "e3dbff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ayaka+Mori&backgroundColor=e3dbff&size=512&mouth=smile",
@@ -161,7 +161,7 @@
   },
   {
     "automation_id": "small-business-automation-orchestrator-check",
-    "display_name": "⚙️ 自動化統括ボット",
+    "display_name": "自動化統括責任者",
     "seed_name": "Megan Ross",
     "background": "d9ecff",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Megan+Ross&backgroundColor=d9ecff&size=512&mouth=smile",
@@ -169,7 +169,7 @@
   },
   {
     "automation_id": "small-business-ai-workflow-check",
-    "display_name": "🪄 AIワークフローボット",
+    "display_name": "AIワークフロー設計責任者",
     "seed_name": "Yuna Shimizu",
     "background": "ffe1e8",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yuna+Shimizu&backgroundColor=ffe1e8&size=512&mouth=smile",
@@ -177,7 +177,7 @@
   },
   {
     "automation_id": "small-business-connector-governance-check",
-    "display_name": "🔌 権限統制ボット",
+    "display_name": "権限統制責任者",
     "seed_name": "Leo Harrison",
     "background": "fff0c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Leo+Harrison&backgroundColor=fff0c2&size=512&mouth=smile",
@@ -185,7 +185,7 @@
   },
   {
     "automation_id": "small-business-builder-hub-check",
-    "display_name": "🧱 事業統括ボット",
+    "display_name": "事業統括責任者",
     "seed_name": "Sophie Walker",
     "background": "ffd7c2",
     "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sophie+Walker&backgroundColor=ffd7c2&size=512&mouth=smile",
