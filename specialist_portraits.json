@@ -13,7 +13,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "e24553",
     "scale": 106,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haruka+Sato&size=512&radius=32&scale=106&backgroundType=gradientLinear&backgroundColor=fde2e4&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=e24553&eyes=open&mouth=bigSmile&skinColor=d78774&hairColor=1f1a38&hair=pigtails&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Haruka+Sato&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffdce8&backgroundRotation=20%2C80&translateX=-8&hair=long17&hairColor=592454&hairProbability=100&mouth=variant09&skinColor=ecad80&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/commercial-legal-check.png"
   },
   {
@@ -30,7 +30,7 @@
     "mouth_style": "smile",
     "clothing_color": "d85e43",
     "scale": 100,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Yui+Sakamoto&size=512&radius=32&scale=100&backgroundType=gradientLinear&backgroundColor=fff1c7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=d85e43&eyes=happy&mouth=smile&skinColor=d38b79&hairColor=342051&hair=straightBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Yui+Sakamoto&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=fff0c8&backgroundRotation=20%2C80&translateX=6&hair=long03&hairColor=6a4e35&hairProbability=100&mouth=variant12&skinColor=f2d3b1&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/corporate-legal-check.png"
   },
   {
@@ -47,7 +47,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "f3b63a",
     "scale": 102,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mina+Kato&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=def7e5&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=f3b63a&eyes=open&mouth=bigSmile&skinColor=d98f7b&hairColor=2b2248&hair=curlyBun&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Mina+Kato&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=dbf5dc&backgroundRotation=20%2C80&translateX=-2&hair=short04&hairColor=3eac2c&hairProbability=100&mouth=variant02&skinColor=ecad80&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/employment-legal-check.png"
   },
   {
@@ -64,7 +64,7 @@
     "mouth_style": "smile",
     "clothing_color": "456dff",
     "scale": 101,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Noah+Bennett&size=512&radius=32&scale=101&backgroundType=gradientLinear&backgroundColor=dcecff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff&eyes=open&mouth=smile&skinColor=efb8a8&hairColor=8a5a42&hair=shortCombover&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Noah+Bennett&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=dcecff&backgroundRotation=20%2C80&translateX=4&hair=short10&hairColor=6a4e35&hairProbability=100&mouth=variant05&skinColor=f2d3b1&features=blush&featuresProbability=0&glasses=variant02&glassesProbability=100&flip=true",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/privacy-legal-check.png"
   },
   {
@@ -81,7 +81,7 @@
     "mouth_style": "smile",
     "clothing_color": "6dbb58",
     "scale": 107,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Aoi+Nakamura&size=512&radius=32&scale=107&backgroundType=gradientLinear&backgroundColor=ffe8dc&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6dbb58&eyes=happy&mouth=smile&skinColor=cb816f&hairColor=21193b&hair=long&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Aoi+Nakamura&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe6d8&backgroundRotation=20%2C80&translateX=-10&hair=long21&hairColor=0e0e0e&hairProbability=100&mouth=variant18&skinColor=ecad80&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/product-counsel-check.png"
   },
   {
@@ -98,7 +98,7 @@
     "mouth_style": "smile",
     "clothing_color": "6887f7",
     "scale": 98,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Lucas+Martin&size=512&radius=32&scale=98&backgroundType=gradientLinear&backgroundColor=e3dcff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6887f7&eyes=glasses&mouth=smile&skinColor=dbab9e&hairColor=c6a36a&hair=buzzcut&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Lucas+Martin&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=eadcff&backgroundRotation=20%2C80&translateX=3&hair=short18&hairColor=afafaf&hairProbability=100&mouth=variant11&skinColor=f2d3b1&features=blush&featuresProbability=0&glasses=variant04&glassesProbability=100&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/regulatory-legal-check.png"
   },
   {
@@ -115,7 +115,7 @@
     "mouth_style": "smile",
     "clothing_color": "7a58cb",
     "scale": 103,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Mei+Takahashi&size=512&radius=32&scale=103&backgroundType=gradientLinear&backgroundColor=fce6f2&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=7a58cb&eyes=open&mouth=smile&skinColor=c97869&hairColor=251d4b&hair=bobCut&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Mei+Takahashi&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe0f1&backgroundRotation=20%2C80&translateX=-6&hair=long11&hairColor=592454&hairProbability=100&mouth=variant20&skinColor=ecad80&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ai-governance-check.png"
   },
   {
@@ -132,7 +132,7 @@
     "mouth_style": "smirk",
     "clothing_color": "8c72d8",
     "scale": 99,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Oliver+Reid&size=512&radius=32&scale=99&backgroundType=gradientLinear&backgroundColor=fff0c9&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=8c72d8&eyes=open&mouth=smirk&skinColor=e6b0a0&hairColor=d4b089&hair=balding&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Oliver+Reid&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=fff0bf&backgroundRotation=20%2C80&translateX=8&hair=short07&hairColor=b9a05f&hairProbability=100&mouth=variant01&skinColor=f2d3b1&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/ip-legal-check.png"
   },
   {
@@ -149,7 +149,7 @@
     "mouth_style": "lips",
     "clothing_color": "f1c03d",
     "scale": 105,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Rin+Fujita&size=512&radius=32&scale=105&backgroundType=gradientLinear&backgroundColor=ffdce7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=f1c03d&eyes=open&mouth=lips&skinColor=cf816d&hairColor=2a2348&hair=bobBangs&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Rin+Fujita&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffdce5&backgroundRotation=20%2C80&translateX=-5&hair=long08&hairColor=562306&hairProbability=100&mouth=variant28&skinColor=ecad80&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/litigation-risk-check.png"
   },
   {
@@ -166,7 +166,7 @@
     "mouth_style": "smile",
     "clothing_color": "7a58cb",
     "scale": 104,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Hana+Park&size=512&radius=32&scale=104&backgroundType=gradientLinear&backgroundColor=e4f6d4&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=7a58cb&eyes=wink&mouth=smile&skinColor=cf856f&hairColor=29204a&hair=long&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Hana+Park&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=e4f8d7&backgroundRotation=20%2C80&translateX=0&hair=long14&hairColor=3eac2c&hairProbability=100&mouth=variant07&skinColor=ecad80&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-clinic-triage.png"
   },
   {
@@ -183,7 +183,7 @@
     "mouth_style": "lips",
     "clothing_color": "e24553",
     "scale": 100,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Emma+Scott&size=512&radius=32&scale=100&backgroundType=gradientLinear&backgroundColor=dbeeff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=e24553&eyes=happy&mouth=lips&skinColor=f2b6ab&hairColor=a66c50&hair=bobCut&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Emma+Scott&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=d9eeff&backgroundRotation=20%2C80&translateX=7&hair=long04&hairColor=dba3be&hairProbability=100&mouth=variant24&skinColor=f2d3b1&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-research-assistant-check.png"
   },
   {
@@ -200,7 +200,7 @@
     "mouth_style": "lips",
     "clothing_color": "6dbb58",
     "scale": 96,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Ethan+Cole&size=512&radius=32&scale=96&backgroundType=gradientLinear&backgroundColor=ffe6d6&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6dbb58&eyes=open&mouth=lips&skinColor=eab7a7&hairColor=c9cbc9&hair=fade&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Ethan+Cole&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe6d6&backgroundRotation=20%2C80&translateX=-4&hair=short02&hairColor=afafaf&hairProbability=100&mouth=variant16&skinColor=f2d3b1&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=100&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/legal-builder-hub-ops-check.png"
   },
   {
@@ -217,7 +217,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "7c61d8",
     "scale": 104,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Chloe+Davis&size=512&radius=32&scale=104&backgroundType=gradientLinear&backgroundColor=ffe0eb&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=7c61d8&eyes=wink&mouth=bigSmile&skinColor=ebb2a1&hairColor=986246&hair=bobCut&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Chloe+Davis&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffdceb&backgroundRotation=20%2C80&translateX=5&hair=long23&hairColor=cb6820&hairProbability=100&mouth=variant03&skinColor=f2d3b1&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-growth-promotion-check.png"
   },
   {
@@ -234,7 +234,7 @@
     "mouth_style": "smile",
     "clothing_color": "456dff",
     "scale": 102,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Haru+Ishida&size=512&radius=32&scale=102&backgroundType=gradientLinear&backgroundColor=fff1cf&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=456dff&eyes=wink&mouth=smile&skinColor=d48a77&hairColor=5c556f&hair=curlyHighTop&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Haru+Ishida&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=fff2d1&backgroundRotation=20%2C80&translateX=-9&hair=short15&hairColor=0e0e0e&hairProbability=100&mouth=variant25&skinColor=ecad80&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=true",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-demand-pipeline-check.png"
   },
   {
@@ -251,7 +251,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "547ef5",
     "scale": 103,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Amara+Okafor&size=512&radius=32&scale=103&backgroundType=gradientLinear&backgroundColor=dceeff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=547ef5&eyes=happy&mouth=bigSmile&skinColor=8f5a4a&hairColor=342022&hair=curlyHighTop&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Amara+Okafor&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=dceeff&backgroundRotation=20%2C80&translateX=2&hair=long01&hairColor=6a4e35&hairProbability=100&mouth=variant04&skinColor=9e5622&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-sales-enablement-operations-check.png"
   },
   {
@@ -268,7 +268,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "9b6dd8",
     "scale": 100,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Liam+Parker&size=512&radius=32&scale=100&backgroundType=gradientLinear&backgroundColor=e3f5df&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=9b6dd8&eyes=wink&mouth=bigSmile&skinColor=f0bcab&hairColor=8c5d45&hair=mohawk&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Liam+Parker&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=e1f5df&backgroundRotation=20%2C80&translateX=6&hair=short17&hairColor=562306&hairProbability=100&mouth=variant08&skinColor=f2d3b1&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=true",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-customer-expansion-and-retention-check.png"
   },
   {
@@ -285,7 +285,7 @@
     "mouth_style": "smile",
     "clothing_color": "e54a56",
     "scale": 104,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Eri+Matsuda&size=512&radius=32&scale=104&backgroundType=gradientLinear&backgroundColor=ffe7c7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=e54a56&eyes=happy&mouth=smile&skinColor=d1806d&hairColor=282046&hair=long&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Eri+Matsuda&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe6bf&backgroundRotation=20%2C80&translateX=-3&hair=long19&hairColor=592454&hairProbability=100&mouth=variant14&skinColor=ecad80&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-revenue-intelligence-and-strategy-check.png"
   },
   {
@@ -302,7 +302,7 @@
     "mouth_style": "lips",
     "clothing_color": "e54a56",
     "scale": 101,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sophie+Walker&size=512&radius=32&scale=101&backgroundType=gradientLinear&backgroundColor=f7deea&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=e54a56&eyes=happy&mouth=lips&skinColor=efb4a9&hairColor=9d6548&hair=bobCut&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Sophie+Walker&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=f7deea&backgroundRotation=20%2C80&translateX=4&hair=long06&hairColor=ab2a18&hairProbability=100&mouth=variant26&skinColor=f2d3b1&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-finance-operations-check.png"
   },
   {
@@ -319,7 +319,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "e76b74",
     "scale": 101,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Owen+Carter&size=512&radius=32&scale=101&backgroundType=gradientLinear&backgroundColor=e4f5d9&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=e76b74&eyes=wink&mouth=bigSmile&skinColor=efbaa8&hairColor=7c553f&hair=shortCombover&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Owen+Carter&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=dff4d8&backgroundRotation=20%2C80&translateX=-7&hair=short12&hairColor=ac6511&hairProbability=100&mouth=variant10&skinColor=f2d3b1&features=blush&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=true",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-support-operations-check.png"
   },
   {
@@ -336,7 +336,7 @@
     "mouth_style": "smile",
     "clothing_color": "6dbb58",
     "scale": 105,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Nia+Brooks&size=512&radius=32&scale=105&backgroundType=gradientLinear&backgroundColor=dfecff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6dbb58&eyes=happy&mouth=smile&skinColor=7f4c44&hairColor=28191a&hair=long&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Nia+Brooks&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=d9ebff&backgroundRotation=20%2C80&translateX=3&hair=long25&hairColor=0e0e0e&hairProbability=100&mouth=variant21&skinColor=763900&features=blush&featuresProbability=0&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-knowledge-management-check.png"
   },
   {
@@ -353,7 +353,7 @@
     "mouth_style": "smile",
     "clothing_color": "f3b63a",
     "scale": 103,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Megan+Ross&size=512&radius=32&scale=103&backgroundType=gradientLinear&backgroundColor=ffe6d7&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=f3b63a&eyes=open&mouth=smile&skinColor=e9b39e&hairColor=8f6246&hair=pigtails&facialHairProbability=0&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Megan+Ross&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe6d7&backgroundRotation=20%2C80&translateX=-1&hair=short03&hairColor=71472d&hairProbability=100&mouth=variant06&skinColor=f2d3b1&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-automation-orchestrator-check.png"
   },
   {
@@ -370,7 +370,7 @@
     "mouth_style": "lips",
     "clothing_color": "6887f7",
     "scale": 98,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Sora+Kimura&size=512&radius=32&scale=98&backgroundType=gradientLinear&backgroundColor=e8dfff&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6887f7&eyes=glasses&mouth=lips&skinColor=d88c77&hairColor=1d1c49&hair=fade&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Sora+Kimura&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=e5ddff&backgroundRotation=20%2C80&translateX=8&hair=short19&hairColor=0e0e0e&hairProbability=100&mouth=variant19&skinColor=ecad80&features=blush&featuresProbability=0&glasses=variant05&glassesProbability=100&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-ai-workflow-check.png"
   },
   {
@@ -387,7 +387,7 @@
     "mouth_style": "smile",
     "clothing_color": "6dbb58",
     "scale": 101,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Jordan+Adeyemi&size=512&radius=32&scale=101&backgroundType=gradientLinear&backgroundColor=fff2d3&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=6dbb58&eyes=glasses&mouth=smile&skinColor=8b5749&hairColor=2a1717&hair=shortCombover&facialHairProbability=20&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Jordan+Adeyemi&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=fff0cf&backgroundRotation=20%2C80&translateX=0&hair=short16&hairColor=562306&hairProbability=100&mouth=variant13&skinColor=9e5622&features=blush&featuresProbability=0&glasses=variant03&glassesProbability=100&flip=false",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-connector-governance-check.png"
   },
   {
@@ -404,7 +404,7 @@
     "mouth_style": "bigSmile",
     "clothing_color": "547ef5",
     "scale": 104,
-    "source_url": "https://api.dicebear.com/9.x/personas/png?seed=Diego+Alvarez&size=512&radius=32&scale=104&backgroundType=gradientLinear&backgroundColor=ffe3de&backgroundRotation=25%2C65&body=rounded%2Csmall&clothingColor=547ef5&eyes=wink&mouth=bigSmile&skinColor=9b5f50&hairColor=564f53&hair=curlyHighTop&facialHairProbability=8&nose=smallRound%2CmediumRound",
+    "source_url": "https://api.dicebear.com/9.x/adventurer/png?seed=Diego+Alvarez&size=512&radius=32&scale=108&backgroundType=gradientLinear&backgroundColor=ffe0de&backgroundRotation=20%2C80&translateX=-6&hair=short09&hairColor=6a4e35&hairProbability=100&mouth=variant30&skinColor=a47539&features=freckles&featuresProbability=100&glasses=variant01&glassesProbability=0&flip=true",
     "local_path": "/Users/apple/Documents/Codex/2026-05-22/goal-20-30-subagent/specialist_portraits/small-business-builder-hub-check.png"
   }
 ]
